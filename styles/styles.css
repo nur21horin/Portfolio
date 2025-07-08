@@ -1,0 +1,27 @@
+*{
+    margin: 1px0;
+    padding:10px;
+}
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: antiquewhite;
+    padding: 10px 20px;
+}
+
+.nav {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.hireButton{
+    background-color: rgb(249, 7, 7);
+    color: white;
+    width: 150px;
+    height: 64px;
+    border-radius: 5px;
+    opacity: 100%;
+    font-size: 1.3rem;
+    align-items: center;
+}
